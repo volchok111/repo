@@ -2,4 +2,7 @@
     <string name="app_name">job_project</string>
     <string name="email">Email</string>
     <string name="pasword">Pasword</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account?</string>
+    <string name="any_questions">Any questions?</string>
+    <string name="contact_us">Contact us</string>
 </resources>
