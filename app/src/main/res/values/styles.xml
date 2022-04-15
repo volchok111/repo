@@ -7,14 +7,11 @@
     </style>
 
     <style name="loginButton">
-        <item name="android:background">@color/colorSecondary</item>
+        <item name="android:background">@color/colorSPrimaryVariant</item>
         <item name="android:textColor">@color/accent</item>
         <item name="android:textStyle">bold</item>
         <item name="cornerRadius">27dp</item>
     </style>
 
-    <style name="icons">
-        <item name="android:background">@color/colorSecondary</item>
-    </style>
 
 </resources>
