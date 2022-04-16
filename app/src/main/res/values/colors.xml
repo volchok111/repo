@@ -9,7 +9,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="colorPrimary">#eef5db</color>
-    <color name="colorSPrimaryVariant">#4f6367</color>
+    <color name="colorPrimaryVariant">#4f6367</color>
     <color name="accent">#fe5f55</color>
     <color name="textColor">#272d2f</color>
 

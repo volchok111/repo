@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="APP"
-        android:textColor="@color/colorSPrimaryVariant"
+        android:textColor="@color/colorPrimaryVariant"
         android:textSize="72sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -36,7 +36,7 @@
         app:layout_constraintEnd_toEndOf="@id/progress"
         app:layout_constraintBottom_toTopOf="@id/progress"
         android:text="Loading..."
-        android:textColor="@color/colorSPrimaryVariant"
+        android:textColor="@color/colorPrimaryVariant"
         android:textSize="14sp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
