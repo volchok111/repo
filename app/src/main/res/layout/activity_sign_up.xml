@@ -7,6 +7,16 @@
     android:background="@color/colorPrimary"
     tools:context=".ui.conf.SignUpActivity">
 
+    <ProgressBar
+        android:id="@+id/progress_pb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -131,7 +141,7 @@
     </LinearLayout>
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/loginBtn"
+        android:id="@+id/signUpBtn"
         android:background="@drawable/round_button"
         app:layout_constraintTop_toBottomOf="@+id/dataLayout"
         app:layout_constraintEnd_toEndOf="parent"

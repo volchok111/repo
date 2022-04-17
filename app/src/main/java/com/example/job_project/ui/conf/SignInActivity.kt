@@ -28,10 +28,10 @@ class SignInActivity : AppCompatActivity() {
         }
 
         binding.fbBtn.setOnClickListener {
-            Toast.makeText(this,"Loading...",Toast.LENGTH_LONG).show()
+            Toast.makeText(this,"Calling Mark Zuckerberg",Toast.LENGTH_LONG).show()
         }
         binding.instBtn.setOnClickListener {
-            Toast.makeText(this,"Loading...",Toast.LENGTH_LONG).show()
+            Toast.makeText(this,"Still calling Mark Zuckerberg",Toast.LENGTH_LONG).show()
         }
 
     }
